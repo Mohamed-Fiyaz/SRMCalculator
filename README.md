@@ -1,5 +1,5 @@
 # SRM Calculator
-<image src="https://github.com/user-attachments/assets/eb685f61-02df-42b5-b58c-a555104be6f2">
+<image src="https://github.com/user-attachments/assets/eb685f61-02df-42b5-b58c-a555104be6f2" width=250 height=250>
 
 ## Launch Screen
 ![85372C71-BAFE-48BE-B88F-D4A9E8386496](https://github.com/user-attachments/assets/eb67ca75-9ebd-46ce-8d28-e5e08e3e017f)
