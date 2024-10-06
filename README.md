@@ -2,7 +2,7 @@
 <image src="https://github.com/user-attachments/assets/eb685f61-02df-42b5-b58c-a555104be6f2" width=250 height=250>
 
 ## Launch Screen
-<image src="https://github.com/user-attachments/assets/eb67ca75-9ebd-46ce-8d28-e5e08e3e017f" width=603 height=1311>
+![85372C71-BAFE-48BE-B88F-D4A9E8386496](https://github.com/user-attachments/assets/3f20a56b-1cae-422a-97e0-f205bd917bff)
 
 ## Home Page
 ![33991CED-E688-43D2-9D32-160517EC7486_1_105_c](https://github.com/user-attachments/assets/fcc8b515-918d-4fdd-99fb-5ed79f6582a9)
